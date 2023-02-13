@@ -1,0 +1,89 @@
+.p5{
+   font-size: 15px;
+   position: absolute;
+   top: 80px;
+   left: 70px;
+}
+
+
+.background2{
+    background-image: url("./photo\ 1.png");
+    background-size: 150px;
+    width: 314px;
+    height: 315px;
+    border: solid 0.5px transparent;
+    background-repeat: no-repeat;
+    left: 70px;
+    top: 330px;
+    position: absolute;
+  }
+
+  .background {
+    background-image: url("./photo.png");
+    background-size: 172px;
+    width: 350px;
+    height: 350px;
+    border: solid 0.5px transparent;
+    background-repeat: no-repeat;
+    left: 520px;
+    top: 100px;
+    position: absolute;
+  }
+
+  h4{
+    position: absolute;
+    left: 320px;
+    top: 355px;
+    font-size: 19px;
+  }
+  .p1{
+   position: absolute;
+    left: 320px;
+    top: 395px;
+}
+h3{
+    position: absolute;
+    left: 530px;
+    top: 360px;
+    font-size: 19px;
+}
+
+.p2{
+    position: absolute;
+    left: 530px;
+    top: 393px;
+}
+h2{
+    position: absolute;
+    font-size: 18px;
+    top: 363px;
+    left: 730px;
+
+}
+
+.p3{
+    position: absolute;
+    top: 390px;
+    left: 730px;
+}
+
+h1{
+  position: absolute;
+  left: 70px;
+  top: 15px;
+  
+}
+
+@media (max-width: 1350px) {
+  
+}
+
+/* tablet */
+@media (max-width: 830px) {
+  
+}
+
+/* mobile */
+@media (max-width: 375px) {
+  
+}
